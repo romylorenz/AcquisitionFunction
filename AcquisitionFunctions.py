@@ -19,7 +19,7 @@ def PIacquisition(muNew, stdNew, fMax, epsilon):
 
 	As describend in:
 		E Brochu, VM Cora, & N de Freitas (2010): 
-		“A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning.” 
+		A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning,
 		arXiv:1012.2599, http://arxiv.org/abs/1012.2599.
 	"""
 
@@ -44,7 +44,7 @@ def EIacquisition(muNew, stdNew, fMax, epsilon):
 
 	As describend in:
 		E Brochu, VM Cora, & N de Freitas (2010): 
-		“A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning.” 
+		A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning, 
 		arXiv:1012.2599, http://arxiv.org/abs/1012.2599.
 	"""
 
@@ -73,7 +73,7 @@ def UCBacquisition(muNew, stdNew, t, d, v=1, delta=.1):
 
 	As describend in:
 		E Brochu, VM Cora, & N de Freitas (2010): 
-		“A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning.” 
+		A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning, 
 		arXiv:1012.2599, http://arxiv.org/abs/1012.2599.
 	"""
 
